@@ -12,7 +12,6 @@ function setup() {
   wall.shapeColor = "white";
 }
 
-
 function draw() {
   background(0);  
   console.log(wall.x-car.x)
